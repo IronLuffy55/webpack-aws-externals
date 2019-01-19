@@ -1,1 +1,1 @@
-"[\".bin\",\"aws-sdk\",\"awslambda\",\"base64-js\",\"buffer\",\"dynamodb-doc\",\"events\",\"ieee754\",\"imagemagick\",\"isarray\",\"jmespath\",\"lodash\",\"punycode\",\"querystring\",\"sax\",\"url\",\"uuid\",\"xml2js\",\"xmlbuilder\"]"
+"[\"aws-sdk\",\"awslambda\",\"base64-js\",\"buffer\",\"dynamodb-doc\",\"events\",\"ieee754\",\"imagemagick\",\"isarray\",\"jmespath\",\"lodash\",\"punycode\",\"querystring\",\"sax\",\"url\",\"uuid\",\"xml2js\",\"xmlbuilder\"]"
