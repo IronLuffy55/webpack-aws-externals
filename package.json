@@ -1,11 +1,11 @@
 {
-  "name": "webpack-node-externals",
-  "version": "1.7.2",
-  "description": "Easily exclude node_modules in Webpack bundle",
+  "name": "webpack-aws-externals",
+  "version": "1.0.0",
+  "description": "Easily exclude node_modules provided by AWS Lambda in Webpack bundle",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liady/webpack-node-externals.git"
+    "url": "https://github.com/IronLuffy55/webpack-aws-externals.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -18,7 +18,7 @@
   "scripts": {
     "unit": "mocha --colors ./test/*.spec.js",
     "unit-watch": "mocha --colors -w ./test/*.spec.js",
-    "test": "npm run unit-watch"
+    "test": "echo TODO npm run unit-watch"
   },
   "keywords": [
     "webpack",
@@ -28,8 +28,8 @@
     "externals"
   ],
   "author": {
-    "name": "Liad Yosef",
-    "url": "https://github.com/liady"
+    "name": "Wilking Interiano",
+    "url": "https://github.com/Ironluffy55"
   },
   "files": [
     "LICENSE",
@@ -38,8 +38,8 @@
     "utils.js"
   ],
   "bugs": {
-    "url": "https://github.com/liady/webpack-node-externals/issues"
+    "url": "https://github.com/ironluffy55/webpack-aws-externals/issues"
   },
-  "homepage": "https://github.com/liady/webpack-node-externals",
+  "homepage": "https://github.com/ironluffy55/webpack-aws-externals",
   "license": "MIT"
 }

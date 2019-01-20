@@ -21,7 +21,7 @@ function getModuleName(request, includeAbsolutePaths) {
   return req.split(delimiter)[0];
 }
 
-module.exports = function nodeExternals(options) {
+module.exports = function awsExternals(options) {
   options = options || {};
   var whitelist = [].concat(options.whitelist || []);
   var importType = options.importType || "commonjs";
