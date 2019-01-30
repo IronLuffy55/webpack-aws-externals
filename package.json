@@ -35,7 +35,8 @@
     "LICENSE",
     "README.md",
     "index.js",
-    "utils.js"
+    "utils.js",
+    "aws_packages.json"
   ],
   "bugs": {
     "url": "https://github.com/ironluffy55/webpack-aws-externals/issues"
