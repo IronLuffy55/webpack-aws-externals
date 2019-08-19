@@ -1,5 +1,6 @@
 var utils = require("./utils");
-var awsPackages = JSON.parse(require("./aws_packages")) || [];
+
+var awsPackages = require("./aws_packages") || [];
 var scopedModuleRegex = new RegExp(
   "@[a-zA-Z0-9][\\w-.]+/[a-zA-Z0-9][\\w-.]+([a-zA-Z0-9./]+)?",
   "g"
